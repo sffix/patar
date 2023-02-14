@@ -1,0 +1,239 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+  background-image:   url ;
+  
+}
+::-webkit-scrollbar{
+  width: 8px;
+}
+section{
+  height: 110vh;
+  padding: 0cm;
+  margin: 0cm;
+}
+.sn1{
+  background-color: black; 
+}
+.header{
+  width: 100%;
+  height:7em ;
+  background-color: black;
+  position: fixed;
+  top: 0%;
+  display: flex;
+  flex-direction: row;
+  
+}
+.logo{
+  width: 8.4em;
+  padding-bottom: 0em;
+  margin-bottom: 0em;
+}
+.logoName{
+  color: white;
+  position: relative;
+  top: 0.5em;
+  font-size: 1.6em;
+}
+.ln{
+  text-decoration: none;
+  color: white;
+  margin: 1em;
+  position: relative;
+  left: 40em;
+  top: 2em;
+}
+.ln:hover{
+  scale: 1.1;
+  color: red;
+}
+.frontImage{
+color: white;
+position:relative;
+top: 0%;
+left: 50%;
+width: 30%;
+display: inline;
+}
+.statments{
+  position: relative;
+  top: -70%;
+  left: 20%;
+  display: inline;
+  font-size: 2em;
+}
+.stat1{
+  color: white;
+}
+.stat2{
+  color: white;
+}
+.stat3{
+  color: white;
+}
+.stat4{
+  color: white;
+}
+.sn2{
+  height: 485vh;
+}
+.bodyBuilding{
+  background-image: url('images/IMG_20230204_165331.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url();
+}
+.title1{
+  margin-left: 2.5em;
+}
+.inDiv1{
+  height:110vh;
+  width: 90%;
+  background-color:transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.pp{
+  width: 40%;
+  margin: 2em;
+  font-weight: bold;
+}
+.ff{
+  width: 40%;
+  height: 60%;
+  background-image: url("tall-stylish-shirtless-bodybuilder-dressed-sports-shorts-doing-exercise-bicep-with-barbell-standing-studio-isolated-dark-background_613910-18341.avif");
+  margin: 2em;
+}
+.box{
+  background-image: url("images/360_F_273450013_hXx6ISE427R2zJuchgkTHznUhPPQrWjO.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.kickBxing{
+  background-image: url("images/images (3).jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.judo{
+  background-image: url("images/Judo Blue .jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.title1{
+  margin-left: 2.5em;
+}
+.inDiv2{
+  height:110vh;
+  width: 90%;
+  background-color:transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-image: url("");
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.ff2{
+  width: 40%;
+  height: 60%;
+  background-image: url("images/téléchargement.jfif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 2em;}
+.title1{
+  margin-left: 2.5em;
+}
+.inDiv3{
+  height:110vh;
+  width: 90%;
+  background-color:transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-image: url("");
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.ff3{
+  width: 40%;
+  height: 60%;
+  background-image: url("images/images.jfif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 2em;}
+.title1{
+  margin-left: 2.5em;
+}
+.inDiv4{
+  height:110vh;
+  width: 90%;
+  background-color:transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-image: url("");
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.ff4{
+  width: 40%;
+  height: 60%;
+  background-image: url("images/images(1).jfif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 2em;
+}
+
+.cardsContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.incd{
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin: 7em;
+border-style: solid;
+
+}
+.ci{
+width: 20em;
+}
+#dis1{
+  width:20em;
+  height: 27em;
+  background-color: black;
+  display: none;
+}
+#dis2{
+  width:20em;
+  height: 27em;
+  background-color: black;
+  display: none;
+}
+.sn4{
+  width: 100%;
+  height: 20em;
+  background-color: black;
+}
+.aaa{
+  margin: 1em;
+}
+#dis1{
+  color: white;
+}
+#dis2{
+  color: white;
+}
+.ppp{
+   margin: 40%;
+}
+#mmm{
+color: white;
+}
+
+
